@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/gram_schmidt_method/static/js/main.4dd9fadf.js",
-    "index.html": "/gram_schmidt_method/index.html",
-    "main.4dd9fadf.js.map": "/gram_schmidt_method/static/js/main.4dd9fadf.js.map"
+    "main.js": "/singular-value-decomposition/static/js/main.4dd9fadf.js",
+    "index.html": "/singular-value-decomposition/index.html",
+    "main.4dd9fadf.js.map": "/singular-value-decomposition/static/js/main.4dd9fadf.js.map"
   },
   "entrypoints": [
     "static/js/main.4dd9fadf.js"
